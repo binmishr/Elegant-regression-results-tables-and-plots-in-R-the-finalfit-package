@@ -1,0 +1,1 @@
+# Elegant-regression-results-tables-and-plots-in-R-the-finalfit-package
