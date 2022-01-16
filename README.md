@@ -11,8 +11,8 @@ Installation
 =================
 You can install finalfit from CRAN:
 
-install.packages("finalfit")
+    install.packages("finalfit")
 
 It is recommended that this package is used together with dplyr which can be installed via:
 
-install.packages("dplyr")
+    install.packages("dplyr")
